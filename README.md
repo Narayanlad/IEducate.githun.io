@@ -1,1 +1,1 @@
-# IEducate.githun.io
+# IEducate.github.io
